@@ -58,8 +58,7 @@ We used “UpdatedResumeDataSet.csv” from Kaggle and it has two features such 
 # Some Screenshots:
 
 <p  align="center"  >
-<img  src="Project_pictures/
-Screenshot_1.png"  height = "400"/> </p>
+<img  src="Project_pictures/Screenshot_1.png"  height = "400"/> </p>
 
 <p  align="center"  >
 <img  src="Project_pictures/Screenshot_2.png"  height = "400"/> </p>
